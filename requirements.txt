@@ -1,4 +1,5 @@
 rumps>=0.4.0
 pyobjc-framework-Cocoa>=9.0
-opencv-python>=4.8.0
+opencv-python==4.8.1.78
 mediapipe>=0.10.0
+protobuf>=3.20,<5
